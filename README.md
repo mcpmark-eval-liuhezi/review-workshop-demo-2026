@@ -1,2 +1,1 @@
-# review-workshop-demo-2026
-Sandbox repo for a hands-on GitHub code review workshop
+This is a demo repository for my code-review workshop and can be deleted afterwards.
